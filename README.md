@@ -24,5 +24,6 @@ Para usar o Moshi, siga os seguintes passos:
 
 <br>O projeto ainda está em fase de **testes**, portanto, bugs são "normais".
 <br>Moshi usa o sistema cross-compiling do Go, então se o programa **não** rodar na sua máquina, peço mil perdões 🙏🏻
+<br>Por enquanto, está apenas disponível em português, mas em breve irei colocar suporte à outros idiomas :)
 ### Espero que gostem 🩷
 ---
